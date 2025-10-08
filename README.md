@@ -22,7 +22,7 @@
 - 🌱 Focused on: *Machine Learning, LLMs, and Data Science Projects*  
 - 👨‍💻 Explore my projects: [GitHub](https://github.com/)  
 - 💬 Ask me about: *Java, Python, R, SQL, DSA, Machine Learning, AI*  
-- 📫 Reach me: *shubhamgupta@gmail.com*  
+- 📫 Reach me: *shubhamgupta77649@gmail.com*  
 - ⚡ Fun fact: I debug my code more than I write it 😅  
 
 ---
